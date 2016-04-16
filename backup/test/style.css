@@ -20,20 +20,17 @@
 #leftnav {
 	float: left;
     width:210px;
-    height:700px;
 	background-color: #183459;
 	margin-left: 40px;
     margin-right: 50px;
     color:white;    
-
-
-
+	height: 700px;    
 	}
 
 #rightnav {
 	float: right;
-    width:350px;
-    height:700px;
+    width:350px;    
+	height: 700px;    
 	margin-right: 40px; 
 	background-color: #eeeeee;
 }
