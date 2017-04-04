@@ -2,12 +2,12 @@
     "docs": [
         {
             "location": "/", 
-            "text": "Welcome to my Blog", 
+            "text": "Welcome to my Blog\n\n\nDistributed Tensorflow", 
             "title": "Home"
         }, 
         {
             "location": "/#welcome-to-my-blog", 
-            "text": "", 
+            "text": "Distributed Tensorflow", 
             "title": "Welcome to my Blog"
         }, 
         {
