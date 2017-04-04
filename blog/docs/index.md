@@ -1,3 +1,13 @@
 # Welcome to my Blog
 
-[Distributed Tensorflow](dtf.md)
+
+&nbsp;
+&nbsp;
+&nbsp;
+&nbsp;
+</hr>
+</hr>
+
+* ####[Distributed Tensorflow Tutorial](Distributed-TF.md)
+
+
