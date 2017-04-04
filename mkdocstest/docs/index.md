@@ -1,3 +1,4 @@
 # Welcome to MyBlog
 
-Currently Working on it !!!
+## Distributed Tensorflow 
+Lets first 

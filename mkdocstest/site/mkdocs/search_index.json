@@ -2,13 +2,18 @@
     "docs": [
         {
             "location": "/", 
-            "text": "Welcome to MyBlog\n\n\nCurrently Working on it !!!", 
+            "text": "Welcome to MyBlog\n\n\nDistributed Tensorflow\n\n\nLets first", 
             "title": "Home"
         }, 
         {
             "location": "/#welcome-to-myblog", 
-            "text": "Currently Working on it !!!", 
+            "text": "", 
             "title": "Welcome to MyBlog"
+        }, 
+        {
+            "location": "/#distributed-tensorflow", 
+            "text": "Lets first", 
+            "title": "Distributed Tensorflow"
         }, 
         {
             "location": "/links/", 
