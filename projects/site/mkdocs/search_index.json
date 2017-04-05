@@ -1,0 +1,44 @@
+{
+    "docs": [
+        {
+            "location": "/", 
+            "text": "Projects :\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nMaster's Thesis", 
+            "title": "Home"
+        }, 
+        {
+            "location": "/#projects", 
+            "text": "", 
+            "title": "Projects :"
+        }, 
+        {
+            "location": "/#masters-thesis", 
+            "text": "", 
+            "title": "Master's Thesis"
+        }, 
+        {
+            "location": "/Master/", 
+            "text": "Exploration and Realtime Mapping of an Obstacle-Prone Unknown Environment Using Swarm of Autonomous Mobile Robots. (Master's Thesis)\n\n\nThis piece of work describes research concerning the application of Swarm Robotics for mapping an unknown area with unknown obstacles. The problem of mapping an unknown environment by a swarm of mobile robots is further divided into two classic problems of Multi-Robot Systems as Multi Robot Area Partitioning Problem and Area Exploration Problem. There is no centralized control. Each robot executes same algorithm in every cycle based on the local information. We solve the mapping problem in two modules. We propose a distributed algorithm for each module and also use concepts from computational geometry. In first module we solve the area partitioning problem where we divide the unknown area among the robots and assign each robot a part of the area. In second module each robot perform exploration of the area assigned and simultaneously generate a topological graph(map) of the sub-area. Thus, by combining graphs of all sub parts of the area we get a map of the area. We simulate our proposed system with \nPlayer/Stage\n(C++ based simulation package) and map is constructed using python graphics library(\ngraphics.py\n). \n\n\nSoftware Simulation :\n\n\n\n\nHardware Simulation(Sub-moodule):\n\n\n\n\nHardware Output :", 
+            "title": "Master"
+        }, 
+        {
+            "location": "/Master/#exploration-and-realtime-mapping-of-an-obstacle-prone-unknown-environment-using-swarm-of-autonomous-mobile-robots-masters-thesis", 
+            "text": "This piece of work describes research concerning the application of Swarm Robotics for mapping an unknown area with unknown obstacles. The problem of mapping an unknown environment by a swarm of mobile robots is further divided into two classic problems of Multi-Robot Systems as Multi Robot Area Partitioning Problem and Area Exploration Problem. There is no centralized control. Each robot executes same algorithm in every cycle based on the local information. We solve the mapping problem in two modules. We propose a distributed algorithm for each module and also use concepts from computational geometry. In first module we solve the area partitioning problem where we divide the unknown area among the robots and assign each robot a part of the area. In second module each robot perform exploration of the area assigned and simultaneously generate a topological graph(map) of the sub-area. Thus, by combining graphs of all sub parts of the area we get a map of the area. We simulate our proposed system with  Player/Stage (C++ based simulation package) and map is constructed using python graphics library( graphics.py ).", 
+            "title": "Exploration and Realtime Mapping of an Obstacle-Prone Unknown Environment Using Swarm of Autonomous Mobile Robots. (Master's Thesis)"
+        }, 
+        {
+            "location": "/Master/#software-simulation", 
+            "text": "", 
+            "title": "Software Simulation :"
+        }, 
+        {
+            "location": "/Master/#hardware-simulationsub-moodule", 
+            "text": "", 
+            "title": "Hardware Simulation(Sub-moodule):"
+        }, 
+        {
+            "location": "/Master/#hardware-output", 
+            "text": "", 
+            "title": "Hardware Output :"
+        }
+    ]
+}
