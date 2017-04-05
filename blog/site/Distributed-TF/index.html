@@ -97,28 +97,13 @@
             <div class="col-md-9" role="main">
 
 <h1 id="distributed-tensorflow">Distributed Tensorflow :</h1>
-<p>First, lets see a simple example of running multiple tasks using distributed tensor flow.</p>
+<p>First, lets do a simple example of running multiple tasks using distributed tensor flow.</p>
 <pre><code class="python"># test.py
 jobName = sys.argv[1]
 taskIndex = sys.argv[2]
-worker = ['localhost:2221', 'localhost:2222']
-cluster = tf.train.ClusterSpec({&quot;worker&quot;: worker})
-# Create and start a server for the local task.
-server = tf.train.Server(cluster, job_name=jobName, task_index=taskIndex)
-if jobName == 'worker':
-    W = tf.Variable(1, trainable=False, dtype=tf.int32, name='W')
-    init_op = tf.global_variables_initializer()
-    with tf.Session() as sess:
-    sess.run(init_op)
-    for i in range(10):
-        incr = tf.assign(W, W + 1)
-        print sess.run(incr)
-        time.sleep(3)
 </code></pre>
 
-<pre><code class="sh">python test.py worker 0
-python test.py worker 1
-</code></pre></div>
+<pre><code class="sh"></code></pre></div>
         </div>
 
         <footer class="col-md-12">

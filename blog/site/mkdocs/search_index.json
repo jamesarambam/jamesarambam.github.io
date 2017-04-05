@@ -17,12 +17,12 @@
         }, 
         {
             "location": "/Distributed-TF/", 
-            "text": "Distributed Tensorflow :\n\n\nFirst, lets see a simple example of running multiple tasks using distributed tensor flow.\n\n\n# test.py\njobName = sys.argv[1]\ntaskIndex = sys.argv[2]\nworker = ['localhost:2221', 'localhost:2222']\ncluster = tf.train.ClusterSpec({\nworker\n: worker})\n# Create and start a server for the local task.\nserver = tf.train.Server(cluster, job_name=jobName, task_index=taskIndex)\nif jobName == 'worker':\n    W = tf.Variable(1, trainable=False, dtype=tf.int32, name='W')\n    init_op = tf.global_variables_initializer()\n    with tf.Session() as sess:\n    sess.run(init_op)\n    for i in range(10):\n        incr = tf.assign(W, W + 1)\n        print sess.run(incr)\n        time.sleep(3)\n\n\n\n\npython test.py worker 0\npython test.py worker 1", 
+            "text": "Distributed Tensorflow :\n\n\nFirst, lets do a simple example of running multiple tasks using distributed tensor flow.\n\n\n# test.py\njobName = sys.argv[1]\ntaskIndex = sys.argv[2]", 
             "title": "Distributed TF"
         }, 
         {
             "location": "/Distributed-TF/#distributed-tensorflow", 
-            "text": "First, lets see a simple example of running multiple tasks using distributed tensor flow.  # test.py\njobName = sys.argv[1]\ntaskIndex = sys.argv[2]\nworker = ['localhost:2221', 'localhost:2222']\ncluster = tf.train.ClusterSpec({ worker : worker})\n# Create and start a server for the local task.\nserver = tf.train.Server(cluster, job_name=jobName, task_index=taskIndex)\nif jobName == 'worker':\n    W = tf.Variable(1, trainable=False, dtype=tf.int32, name='W')\n    init_op = tf.global_variables_initializer()\n    with tf.Session() as sess:\n    sess.run(init_op)\n    for i in range(10):\n        incr = tf.assign(W, W + 1)\n        print sess.run(incr)\n        time.sleep(3)  python test.py worker 0\npython test.py worker 1", 
+            "text": "First, lets do a simple example of running multiple tasks using distributed tensor flow.  # test.py\njobName = sys.argv[1]\ntaskIndex = sys.argv[2]", 
             "title": "Distributed Tensorflow :"
         }
     ]
