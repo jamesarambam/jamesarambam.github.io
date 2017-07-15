@@ -9,7 +9,7 @@
         
         <link rel="shortcut icon" href="../img/favicon.ico">
 
-	<title>Distributed TF - Blog</title>
+	<title>kerasLog - Blog</title>
 
         <link href="../css/bootstrap-custom.min.css" rel="stylesheet">
         <link href="../css/font-awesome-4.0.3.css" rel="stylesheet">
@@ -56,14 +56,14 @@
             
             
             
-                <li class="active">
-                    <a href="./">Distributed TF</a>
+                <li >
+                    <a href="../Distributed-TF/">Distributed TF</a>
                 </li>
             
             
             
-                <li >
-                    <a href="../kerasLog/">kerasLog</a>
+                <li class="active">
+                    <a href="./">kerasLog</a>
                 </li>
             
             
@@ -77,12 +77,12 @@
                     </a>
                 </li>
                 <li >
-                    <a rel="next" href="..">
+                    <a rel="next" href="../Distributed-TF/">
                         <i class="fa fa-arrow-left"></i> Previous
                     </a>
                 </li>
-                <li >
-                    <a rel="prev" href="../kerasLog/">
+                <li class="disabled">
+                    <a rel="prev" >
                         Next <i class="fa fa-arrow-right"></i>
                     </a>
                 </li>
@@ -96,21 +96,48 @@
             <div class="col-md-3"><div class="bs-sidebar hidden-print affix well" role="complementary">
     <ul class="nav bs-sidenav">
     
-        <li class="main active"><a href="#distributed-tensorflow">Distributed Tensorflow :</a></li>
+        <li class="main active"><a href="#keras-with-log-likelihood-loss">Keras with Log Likelihood Loss :</a></li>
         
     
     </ul>
 </div></div>
             <div class="col-md-9" role="main">
 
-<h1 id="distributed-tensorflow">Distributed Tensorflow :</h1>
-<p>First, lets do a simple example of running multiple tasks using distributed tensor flow.</p>
-<pre><code class="python"># test.py
-jobName = sys.argv[1]
-taskIndex = sys.argv[2]
-</code></pre>
+<h1 id="keras-with-log-likelihood-loss">Keras with Log Likelihood Loss :</h1>
+<pre><code>"""
+++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
+Author : James Arambam
+Date   : 15 Jul 2017
+Description :
+Input : 
+Output : 
+++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
+"""
 
-<pre><code class="sh"></code></pre></div>
+from keras.models import Sequential
+from keras.layers import Dense
+import tensorflow as tf
+
+def logLike_Loss(y_true, y_pred):
+    return tf.log(y_pred)
+
+x_train = [[1, 2, 3, 4],
+           [5, 6, 7, 8],
+           [9, 10, 11, 12]
+           ]
+y_train = [[],[], []]
+x_test = [[1, 2, 3, 4]]
+model = Sequential()
+model.add(Dense(3, activation='relu', input_dim=4))
+model.add(Dense(2, activation='softmax'))
+x = tf.placeholder(tf.float32, shape=(None, 4))
+model.compile(loss=logLike_Loss, optimizer='adam')
+model.fit(x_train, y_train, nb_epoch=10)
+y = model(x)
+with tf.Session() as sess:
+    tf.initialize_all_variables().run()
+    print sess.run(y, feed_dict={x : x_test})
+</code></pre></div>
         </div>
 
         <footer class="col-md-12">

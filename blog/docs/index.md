@@ -10,4 +10,6 @@
 
 * ####[Distributed Tensorflow Tutorial](Distributed-TF.md)
 
+* ####[Keras with Log Likelihood Loss](kerasLog.md)
+
 
