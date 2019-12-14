@@ -1,0 +1,19 @@
+
++ **Arambam James Singh**, Akshat Kumar, Graph Based Optimization For Multiagent Cooperation, In Proceedings of the 18th International Conference on Autonomous Agents and MultiAgent Systems(AAMAS-2019), Montreal, Canada. [<a href="https://jamesarambam.github.io/files/X.pdf">pdf</a>] 
+
++ **Arambam James Singh**, Duc Thien Nguyen, Akshat Kumar and Hoong Chuin Lau, Multiagent Decision Making For Maritime Traffic Management. In Proceedings of the Thirty-Third AAAI Conference on Artificial Intelligence (AAAI-19), Hawaii, USA. [<a href="https://jamesarambam.github.io/files/X.pdf">pdf</a>] 
+
++ **Arambam James Singh**, Akshat Kumar, "Multiagent Coordination Using Graph Structured Mathematical Optimization". In Proceedings of the 16th International Conference on Autonomous Agents and MultiAgent Systems(AAMAS-2017, Extended Abstract), Sau Paulo, Brazil.  [[pdf](https://dl.acm.org/citation.cfm?id=3091423)]
+
++ Akshat Kumar, **Arambam James Singh**, Pradeep Varakantham and Daniel Sheldon, "Robust Decision Making For Stochastic Network Design". In Proceedings of the Thirtieth AAAI Conference on Artificial Intelligence(AAAI 2016), Arizona, USA. [[pdf](https://www.aaai.org/ocs/index.php/AAAI/AAAI16/paper/view/12224)]
+
++ Poulami Dalapati, **Arambam James Singh** and Animesh Dutta, "Multi-Agent Based Algorithmic Approach for Fast Response in Railway Disaster Handling". Accepted in Intelligent Agent Technology(IAT-15), Dec 2015, Singapore. [[pdf](https://ieeexplore.ieee.org/abstract/document/7397378/)]
+
++ Poulami Dalapati, **Arambam James Singh**, Animesh Dutta and Swapan Bhattacharya, "Multi Agent Based Railway Scheduling and Optimization", In Proceedings of Tencon-2014 IEEE Region 10th Conference, Oct 2014, Bangkok, Thailand. [[pdf](http://ieeexplore.ieee.org/document/7022389/)]
+
++ **Arambam James Singh**, Poulami Dalapati and Animesh Dutta, "Multi-Agent Based Dynamic Task Allocation", 8th International KES Conference on Agents and Multi-agent System Technologies and Applications, June 2014, Greece. [[pdf](https://link.springer.com/chapter/10.1007/978-3-319-07650-8_18)]
+
++ **Arambam James Singh**, Deepanwita Das and Sruti Kumari, "A Swarm Based Area Partitioning Technique by Robots With Limited Capabilities and its Simulation", Eighth International MultiConference on Information Processing - July 2014, Bangalore, India. [[pdf](https://www.researchgate.net/publication/281838908_A_Swarm_Based_Area_Partitioning_Technique_by_Robots_with_Limited_Capabilities_and_Its_Simulation)]
+
++ **Arambam James Singh**, Sudipta Acharya & Animesh Dutta., "Agent Based Task Specific Team Formation for Effective Distributed Decision Making",10th International Conference on Electrical Engineering/Electronics, Computer, Telecommunications and Information Technology (ECTI- CON), May 2013, Krabi, Thailand. [[pdf](http://ieeexplore.ieee.org/document/6559568/)]
+
