@@ -3,13 +3,16 @@ main:
   - title: "Publications"
     url: /publications/
 
-  - title: "Research Projects"
+  - title: "Projects"
     url: /projects/
 
-  - title: "CV"
+  - title: "Resume"
     url: /cv/
   
-  - title: "Blog Posts"
+  - title: "Usefull Links"
+    url: /links/
+
+  - title: "Blog"
     url: /year-archive/
     
   - title: "Photography"

@@ -1,6 +1,6 @@
 ---
 layout: archive
-title: "CV"
+title: ""
 permalink: /cv/
 author_profile: true
 redirect_from:
@@ -15,12 +15,12 @@ Education
   School of Information Systems<br/>
   PhD in Computer Science (Jan 2017 - Present)<br/>
 
-* **National Institute of Technology Durgapur** <br/>
+* **National Institute of Technology Durgapur, India** <br/>
   Department of Computer Science, <br/>
   Master of Technology(M.Tech) in Information Technology (Aug 2012 - June 2014 )<br/>
-  (Institute Gold Medalist) <br/>
+  (**Institute Gold Medalist**) <br/>
 
-* **National Institute of Technology Silchar** <br/>
+* **National Institute of Technology Silchar, India** <br/>
   Department of Electronics & Communication Engineering, <br/>
   Bachelor of Technology in Electronics & Comm. Engg (July 2006 - June 2010)<br/>
 
@@ -39,13 +39,12 @@ M.Tech. 2014.
 
 Work Experience
 ======
-* Research Engineer (Nov. 2014 - Nov. 2016) <br/>
-  School of Information Systems <br/>
-  Singapore Management University <br/>
+* **Research Engineer** (Nov. 2014 - Nov. 2016) <br/>
+  School of Information Systems, Singapore Management University <br/>
   Intelligent Systems and Decision Analytics Group <br/>
   Supervisor : Asst. Prof. Akshat Kumar <br/>
   
-* Assistant Software Engineer(Developer), (Aug. 2010 - July 2012) <br/>
+* **Assistant Software Engineer(Developer)**, (Aug. 2010 - July 2012) <br/>
   Steria India Ltd. <br/>
 
 Community Service
@@ -55,8 +54,8 @@ Community Service
 
 Skills
 =========
-* Programming Languages:  Python, Java, C/C++, Julia, Octave
-* Scientific Packages: PyTorch, TensorFlow, IBM CPLEX, GNU Scientific Libraries (GSL)
+* **Programming Languages:**  Python, Java, C/C++, Julia, Octave
+* **Scientific Packages:** PyTorch, TensorFlow, IBM CPLEX, GNU Scientific Libraries (GSL)
 
 Teaching
 ==========

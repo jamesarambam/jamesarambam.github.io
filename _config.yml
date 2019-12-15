@@ -7,7 +7,7 @@
 
 # Site Settings
 locale                   : "en-US"
-title                    : "James's Site"
+title                    : "Home"
 title_separator          : "-"
 name                     : &name "James Arambam"
 description              : &description "personal description"
@@ -80,7 +80,7 @@ analytics:
 
 # Site Author
 author:
-  name             : "James Arambam"
+  name             : ""
   avatar           : "profile.png"
   bio              : ""
   location         : "Singapore"
