@@ -22,6 +22,17 @@ Email : arambamjs.2016@phdcs.smu.edu.sg <br/>
 I am a 3rd year PhD student in Computer Science at School of Information Systems(SIS), Singapore Management University. Here at SIS, I am part of Intelligent Systems and Decision Analytics Group. My research advisors are Assist. Prof. [Akshat Kumar](http://www.mysmu.edu/faculty/akshatkumar/) and Prof. [Hoong Chuin Lau](http://www.mysmu.edu/faculty/hclau/).
 I am supported by [Fujitsu-SMU Student Scholarship](https://unicen.smu.edu.sg/scholarship/).
 
+## Research Interest 
+
+Artificial Intelligence/Machine Learning in general with focus on following areas: 
+
+* Deep Reinforcement Learning
+
+* Probabilistic Graphical Models 
+
+* Optimization
+
+  
 
 ## News
 
