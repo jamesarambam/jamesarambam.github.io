@@ -1,7 +1,7 @@
 
-+ **Arambam James Singh**, Akshat Kumar, Graph Based Optimization For Multiagent Cooperation, In Proceedings of the 18th International Conference on Autonomous Agents and MultiAgent Systems(AAMAS-2019), Montreal, Canada. [<a href="https://jamesarambam.github.io/files/X.pdf">pdf</a>] 
++ **Arambam James Singh**, Akshat Kumar, Graph Based Optimization For Multiagent Cooperation, In Proceedings of the 18th International Conference on Autonomous Agents and MultiAgent Systems(AAMAS-2019), Montreal, Canada. [<a href="https://dl.acm.org/doi/10.5555/3306127.3331863">pdf</a>] 
 
-+ **Arambam James Singh**, Duc Thien Nguyen, Akshat Kumar and Hoong Chuin Lau, Multiagent Decision Making For Maritime Traffic Management. In Proceedings of the Thirty-Third AAAI Conference on Artificial Intelligence (AAAI-19), Hawaii, USA. [<a href="https://jamesarambam.github.io/files/X.pdf">pdf</a>] 
++ **Arambam James Singh**, Duc Thien Nguyen, Akshat Kumar and Hoong Chuin Lau, Multiagent Decision Making For Maritime Traffic Management. In Proceedings of the Thirty-Third AAAI Conference on Artificial Intelligence (AAAI-19), Hawaii, USA. [<a href="https://www.aaai.org/ojs/index.php/AAAI/article/view/4575">pdf</a>] 
 
 + **Arambam James Singh**, Akshat Kumar, "Multiagent Coordination Using Graph Structured Mathematical Optimization". In Proceedings of the 16th International Conference on Autonomous Agents and MultiAgent Systems(AAMAS-2017, Extended Abstract), Sau Paulo, Brazil.  [[pdf](https://dl.acm.org/citation.cfm?id=3091423)]
 
