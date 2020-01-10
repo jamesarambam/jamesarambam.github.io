@@ -40,8 +40,6 @@ Artificial Intelligence/Machine Learning in general with focus on following area
 * Our paper Graph Based Optimization For Multiagent Cooperation accepted at AAMAS-19
 
 
-
-<script type="text/javascript" id="clustrmaps" src="//cdn.clustrmaps.com/map_v2.js?d=5YZOZx47lnHz1mDsxEHN0fpbDYYrZX26-uUFWXtHqTQ&cl=ffffff&w=a"></script>
-
+<script type="text/javascript" id="clstr_globe" src="//cdn.clustrmaps.com/globe.js?d=5YZOZx47lnHz1mDsxEHN0fpbDYYrZX26-uUFWXtHqTQ"></script>
 
 <a href="https://clustrmaps.com/site/1b26z" title="Visit tracker"><img src="//www.clustrmaps.com/map_v2.png?d=5YZOZx47lnHz1mDsxEHN0fpbDYYrZX26-uUFWXtHqTQ&cl=ffffff"></a>
