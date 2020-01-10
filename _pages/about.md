@@ -32,7 +32,6 @@ Artificial Intelligence/Machine Learning in general with focus on following area
 
 * Optimization
 
-  
 
 ## News
 
@@ -40,3 +39,6 @@ Artificial Intelligence/Machine Learning in general with focus on following area
 
 * Our paper Graph Based Optimization For Multiagent Cooperation accepted at AAMAS-19
 
+
+
+<script type="text/javascript" id="clustrmaps" src="//cdn.clustrmaps.com/map_v2.js?d=5YZOZx47lnHz1mDsxEHN0fpbDYYrZX26-uUFWXtHqTQ&cl=ffffff&w=a"></script>
