@@ -19,24 +19,23 @@ Email : arambamjs.2016@phdcs.smu.edu.sg <br/>
 
 ## About Me
 
-I am a 3rd year PhD student in Computer Science at School of Information Systems(SIS), Singapore Management University. Here at SIS, I am part of Intelligent Systems and Decision Analytics Group. My research advisors are Assist. Prof. [Akshat Kumar](http://www.mysmu.edu/faculty/akshatkumar/) and Prof. [Hoong Chuin Lau](http://www.mysmu.edu/faculty/hclau/).
+I am a 4th year PhD student at School of Information Systems(SIS), Singapore Management University. Here at SIS, I am part of Intelligent Systems and Decision Analytics Group. My research advisors are Assist. Prof. [Akshat Kumar](http://www.mysmu.edu/faculty/akshatkumar/) and Prof. [Hoong Chuin Lau](http://www.mysmu.edu/faculty/hclau/).
 I am supported by [Fujitsu-SMU Student Scholarship](https://unicen.smu.edu.sg/scholarship/).
 
 ## Research Interest 
 
 Artificial Intelligence/Machine Learning in general with focus on following areas: 
-
 * Deep Reinforcement Learning
-
-* Probabilistic Graphical Models 
-
+* Multiagent Reinforcement Learning
+* Hierarchical Reinforcement Learning
+* Probabilistic Machine Learning
 * Optimization
 
 
 ## News
 
+* Our paper Hierarchical Multiagent Reinforcement Learning for Maritime Traffic Management accepted at AAMAS-20
 * Our paper Multiagent Decision Making For Maritime Traffic Management accepted at AAAI-19
-
 * Our paper Graph Based Optimization For Multiagent Cooperation accepted at AAMAS-19
 
 
