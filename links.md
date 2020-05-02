@@ -7,4 +7,5 @@
 + [Hierarchical Reinforcement Learning](https://thegradient.pub/the-promise-of-hierarchical-reinforcement-learning/)
 + [Policy Gradient Methods](https://lilianweng.github.io/lil-log/2018/04/08/policy-gradient-algorithms.html#policy-gradient-theorem)
 + [Pytorch Cheat Sheet](https://jhui.github.io/2018/02/09/PyTorch-Basic-operations/)
++ [Why reinforcement learning not work for you ?](https://rlrl.net.technion.ac.il/2020/01/27/why-does-reinforcement-learning-not-work-for-you/)
 
