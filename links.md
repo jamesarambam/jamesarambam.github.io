@@ -8,6 +8,6 @@
 + [Policy Gradient Methods](https://lilianweng.github.io/lil-log/2018/04/08/policy-gradient-algorithms.html#policy-gradient-theorem)
 + [Pytorch Cheat Sheet](https://jhui.github.io/2018/02/09/PyTorch-Basic-operations/)
 + [Why reinforcement learning not work for you ?](https://rlrl.net.technion.ac.il/2020/01/27/why-does-reinforcement-learning-not-work-for-you/)
-
 + [Absolute Inequalities ?](http://lpsolve.sourceforge.net/5.1/absolute.htm)
++ ["You and Your Research" by Richard Hamming](https://www.cs.virginia.edu/~robins/YouAndYourResearch.html)
 
