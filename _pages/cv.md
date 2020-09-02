@@ -26,9 +26,10 @@ Education
 
 Awards & Honours
 ======
+* Dean's List - 2020, School of Information Systems, Singapore Management University.
 * SMU Presidential Doctoral Fellowship - 2020.
 * Selected to attend Global Young Scientists Summit 2020, event organized by National Research Foundation, Prime Minister's Office, Singapore.
-* Deans List - 2019, School of Information Systems, Singapore Management University.
+* Dean's List - 2019, School of Information Systems, Singapore Management University.
 * SMU Presidential Doctoral Fellowship - 2019.
 * Student Travel Scholarship to attend International Conference on Autonomous Agents and Multiagent Systems (AAMAS - 2019), at Montreal, Canada.
 * Student Travel Scholarship to attend International Summer School on Planning and Scheduling, held in conjunction with International Conference on Automated Planning and Scheduling (ICAPS-2018), at Delft, The Netherlands.
