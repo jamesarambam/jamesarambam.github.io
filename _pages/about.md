@@ -34,9 +34,8 @@ Artificial Intelligence/Machine Learning in general with focus on following area
 
 ## News
 
-* Our paper Hierarchical Multiagent Reinforcement Learning for Maritime Traffic Management accepted at AAMAS-20
-* Our paper Multiagent Decision Making For Maritime Traffic Management accepted at AAAI-19
-* Our paper Graph Based Optimization For Multiagent Cooperation accepted at AAMAS-19
+* Our paper, Approximate Difference Rewards for Scalable Multiagent Reinforcement Learning. Accepted in International Conference on Autonomous Agents and MultiAgent Systems(AAMAS-2021,Extended Abstract)
+* Our paper, Hierarchical Multiagent Reinforcement Learning for Maritime Traffic Management accepted at AAMAS-20
 
 
 <!-- <script type="text/javascript" id="clstr_globe" src="//cdn.clustrmaps.com/globe.js?d=5YZOZx47lnHz1mDsxEHN0fpbDYYrZX26-uUFWXtHqTQ"></script> -->
