@@ -35,9 +35,10 @@ Awards & Honours
 * Student Travel Scholarship to attend International Summer School on Planning and Scheduling, held in conjunction with International Conference on Automated Planning and Scheduling (ICAPS-2018), at Delft, The Netherlands.
 * Fujitsu-SMU Ph.D Student Scholarship - 2017.
 * Institute Gold Medal from National Institute of Technology Durgapur, West Bengal, India for
-M.Tech. 2014.
+  M.Tech. 2014.
 * Scholarship from Ministry of Human Resource Development, Government of India, Fellowship
-2012-2014 for pursuing M.Tech(Master).
+  2012-2014 for pursuing M.Tech(Master).
+* Among top 2.1% of Graduate Aptitude Test in Engineering (GATE-2012) in **Computer Science**.
 
 
 Work Experience
@@ -45,7 +46,7 @@ Work Experience
 * **Research Engineer** (Nov. 2014 - Nov. 2016) <br/>
   School of Information Systems, Singapore Management University <br/>
   Intelligent Systems and Decision Analytics Group <br/>
-  Supervisor : Asst. Prof. Akshat Kumar <br/>
+  Supervisor : Assoc. Prof. Akshat Kumar <br/>
   
 * **Assistant Software Engineer(Developer)**, (Aug. 2010 - July 2012) <br/>
   Steria India Ltd. <br/>
