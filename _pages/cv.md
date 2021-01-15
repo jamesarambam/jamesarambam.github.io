@@ -12,7 +12,7 @@ redirect_from:
 Education
 ======
 * **Singapore Management University** <br/>
-  School of Information Systems<br/>
+  School of Computing & Information Systems<br/>
   PhD in Computer Science (Jan 2017 - Present)<br/>
 
 * **National Institute of Technology Durgapur, India** <br/>
@@ -26,10 +26,10 @@ Education
 
 Awards & Honours
 ======
-* Dean's List - 2020, School of Information Systems, Singapore Management University.
+* Dean's List - 2020, School of Computing & Information Systems, Singapore Management University.
 * SMU Presidential Doctoral Fellowship - 2020.
 * Selected to attend Global Young Scientists Summit 2020, event organized by National Research Foundation, Prime Minister's Office, Singapore.
-* Dean's List - 2019, School of Information Systems, Singapore Management University.
+* Dean's List - 2019, School of Computing & Information Systems, Singapore Management University.
 * SMU Presidential Doctoral Fellowship - 2019.
 * Student Travel Scholarship to attend International Conference on Autonomous Agents and Multiagent Systems (AAMAS - 2019), at Montreal, Canada.
 * Student Travel Scholarship to attend International Summer School on Planning and Scheduling, held in conjunction with International Conference on Automated Planning and Scheduling (ICAPS-2018), at Delft, The Netherlands.
@@ -44,7 +44,7 @@ Awards & Honours
 Work Experience
 ======
 * **Research Engineer** (Nov. 2014 - Nov. 2016) <br/>
-  School of Information Systems, Singapore Management University <br/>
+  School of Computing & Information Systems, Singapore Management University <br/>
   Intelligent Systems and Decision Analytics Group <br/>
   Supervisor : Assoc. Prof. Akshat Kumar <br/>
   
@@ -64,7 +64,7 @@ Skills
 Teaching
 ==========
 * **Singapore Management University**
-    * Teaching Assistant in School of Information Systems
+    * Teaching Assistant in School of Computing & Information Systems
         * Introduction to Artificial Intelligence IS-448, Fall 2018
 
 * **National Institute of Technology Durgapur**, India

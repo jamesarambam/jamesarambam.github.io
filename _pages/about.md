@@ -11,7 +11,7 @@ redirect_from:
 ## James Arambam <br/>
 PhD Student, <br/>
 Fujitsu-SMU Urban Computing & Engineering Corporate Lab, <br/>
-School of Information Systems, <br/>
+School of Computing & Information Systems, <br/>
 Singapore Management University, <br/>
 Email : arambamjs.2016@phdcs.smu.edu.sg <br/>
 
@@ -19,7 +19,7 @@ Email : arambamjs.2016@phdcs.smu.edu.sg <br/>
 
 ## About Me
 
-I am a 4th year PhD student at School of Information Systems(SIS), Singapore Management University. Here at SIS, I am part of Intelligent Systems and Decision Analytics Group. My research advisors are Assist. Prof. [Akshat Kumar](http://www.mysmu.edu/faculty/akshatkumar/) and Prof. [Hoong Chuin Lau](http://www.mysmu.edu/faculty/hclau/).
+I am a PhD student at School of Computing & Information Systems, Singapore Management University. I am also part of Intelligent Systems and Decision Analytics Group. My research advisors are Assoc. Prof. [Akshat Kumar](http://www.mysmu.edu/faculty/akshatkumar/) and Prof. [Hoong Chuin Lau](http://www.mysmu.edu/faculty/hclau/).
 I am supported by [Fujitsu-SMU Student Scholarship](https://unicen.smu.edu.sg/scholarship/).
 
 ## Research Interest 
