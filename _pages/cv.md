@@ -18,7 +18,7 @@ Education
 * **National Institute of Technology Durgapur, India** <br/>
   Department of Computer Science, <br/>
   Master of Technology(M.Tech) in Information Technology (Aug 2012 - June 2014 )<br/>
-  (**Institute Gold Medalist**) <br/>
+  (**Gold Medalist**) <br/>
 
 * **National Institute of Technology Silchar, India** <br/>
   Department of Electronics & Communication Engineering, <br/>
@@ -34,7 +34,7 @@ Awards & Honours
 * Student Travel Scholarship to attend International Conference on Autonomous Agents and Multiagent Systems (AAMAS - 2019), at Montreal, Canada.
 * Student Travel Scholarship to attend International Summer School on Planning and Scheduling, held in conjunction with International Conference on Automated Planning and Scheduling (ICAPS-2018), at Delft, The Netherlands.
 * Fujitsu-SMU Ph.D Student Scholarship - 2017.
-* Institute Gold Medal from National Institute of Technology Durgapur, West Bengal, India for
+* Gold Medal from National Institute of Technology Durgapur, West Bengal, India for
   M.Tech. 2014.
 * Scholarship from Ministry of Human Resource Development, Government of India, Fellowship
   2012-2014 for pursuing M.Tech(Master).
