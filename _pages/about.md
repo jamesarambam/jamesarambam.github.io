@@ -24,13 +24,7 @@ I am supported by [Fujitsu-SMU Student Scholarship](https://unicen.smu.edu.sg/sc
 
 ## Research Interest 
 
-Artificial Intelligence/Machine Learning in general with focus on following areas: 
-* Deep Reinforcement Learning
-* Multiagent Reinforcement Learning
-* Hierarchical Reinforcement Learning
-* Probabilistic Machine Learning
-* Optimization
-
+Artificial intelligence and machine learning - reinforcement learning, probabilistic inference, graphical models, mathematical optimization.
 
 ## News
 

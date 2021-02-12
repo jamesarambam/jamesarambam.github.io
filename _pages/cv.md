@@ -48,7 +48,7 @@ Work Experience
   Intelligent Systems and Decision Analytics Group <br/>
   Supervisor : Assoc. Prof. Akshat Kumar <br/>
   
-* **Assistant Software Engineer(Developer)**, (Aug. 2010 - July 2012) <br/>
+* **Assistant Software Engineer (Developer)**, (Aug. 2010 - July 2012) <br/>
   Steria India Ltd. <br/>
 
 Community Service
