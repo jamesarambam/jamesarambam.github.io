@@ -28,8 +28,8 @@ Artificial intelligence and machine learning - reinforcement learning, probabili
 
 ## News
 
-* Our paper, Approximate Difference Rewards for Scalable Multiagent Reinforcement Learning. Accepted in International Conference on Autonomous Agents and MultiAgent Systems(AAMAS-2021,Extended Abstract)
-* Our paper, Hierarchical Multiagent Reinforcement Learning for Maritime Traffic Management accepted at AAMAS-20
+* Our paper, *Learning and Exploiting Shaped Reward Models for Large Scale Multiagent RL*. Accepted in  International Conference on Automated Planning and Scheduling (ICAPS-2021)
+* Our paper, *Approximate Difference Rewards for Scalable Multiagent Reinforcement Learning (Extended Abstract)*. Accepted in International Conference on Autonomous Agents and MultiAgent Systems (AAMAS-2021)
 
 
 <!-- <script type="text/javascript" id="clstr_globe" src="//cdn.clustrmaps.com/globe.js?d=5YZOZx47lnHz1mDsxEHN0fpbDYYrZX26-uUFWXtHqTQ"></script> -->
