@@ -19,10 +19,11 @@ Email : arambamjs.2016@phdcs.smu.edu.sg <br/>
 
 ## About Me
 
-I am a PhD student at School of Computing & Information Systems, Singapore Management University. I am also part of Intelligent Systems and Decision Analytics Group. My research advisors are Assoc. Prof. [Akshat Kumar](http://www.mysmu.edu/faculty/akshatkumar/) and Prof. [Hoong Chuin Lau](http://www.mysmu.edu/faculty/hclau/).
+I am currently a PhD student at School of Computing & Information Systems, Singapore Management University. I am also part of Intelligent Systems and Decision Analytics Group. My research advisors are Assoc. Prof. [Akshat Kumar](http://www.mysmu.edu/faculty/akshatkumar/) and Prof. [Hoong Chuin Lau](http://www.mysmu.edu/faculty/hclau/).
+
 I am supported by [Fujitsu-SMU Student Scholarship](https://unicen.smu.edu.sg/scholarship/).
 
-## Research Interest 
+## Research Interests
 
 Artificial intelligence and machine learning - reinforcement learning, probabilistic inference, graphical models, mathematical optimization.
 
