@@ -25,6 +25,8 @@ We address the problem of solving math programs defined over a graph where nodes
 
 <img src="https://jamesarambam.github.io/images/agv.png" alt="drawing" width="600" height="200"/>
 
-# <u>Robust Decision Making For Stochastic Network Design</u> <font size=4>[<a href="https://www.aaai.org/ocs/index.php/AAAI/AAAI16/paper/view/12224">AAAI-16</a>]</font>
+# <u>Computational Sustainability</u> <font size=4>[<a href="https://www.aaai.org/ocs/index.php/AAAI/AAAI16/paper/view/12224">AAAI-16</a>]</font>
 
 We address the problem of robust decision making for stochastic network design. Our work is motivated by spatial conservation planning where the goal is to take management decisions within a fixed budget to maximize the expected spread of a population of species over a network of land parcels. Most previous work for this problem assumes that accurate estimates of different network parameters (edge activation probabilities, habitat suitability scores) are available, which is an unrealistic assumption. To address this shortcoming, we assume that network parameters are only partially known, specified via interval bounds. We then develop a decision making approach that computes the solution with minimax regret. We provide new theoretical results regarding the structure of the minmax regret solution which help develop a computationally efficient approach. Empirically, we show that previous approaches that work on point estimates of network parameters result in high regret on several standard benchmarks, while our approach provides significantly more robust solutions.
+
+<img src="https://jamesarambam.github.io/images/birds.png" alt="drawing" width="600" height="200"/>
