@@ -31,8 +31,7 @@ Artificial intelligence and machine learning - reinforcement learning, probabili
 
 * Our paper, *Learning and Exploiting Shaped Reward Models for Large Scale Multiagent RL* is accepted in  International Conference on Automated Planning and Scheduling (ICAPS-2021).
 * Our paper, *Approximate Difference Rewards for Scalable Multiagent Reinforcement Learning (Extended Abstract)* is accepted in International Conference on Autonomous Agents and MultiAgent Systems (AAMAS-2021).
-* Our paper, *Ship-Gan: Generative Modeling Based Maritime Traffic Simulator (Demo paper)* is accepted in International Conference on Autonomous Agents and MultiAgent Systems (AAMAS-2021).
-
+* Our paper, *Ship-Gan: Generative Modeling Based Maritime Traffic Simulator (Demo paper)* is accepted in International Conference on Autonomous Agents and MultiAgent Systems (AAMAS-2021). (<span style="color:red">**Best Demo Award**</span>)
 
 <!-- <script type="text/javascript" id="clstr_globe" src="//cdn.clustrmaps.com/globe.js?d=5YZOZx47lnHz1mDsxEHN0fpbDYYrZX26-uUFWXtHqTQ"></script> -->
 
