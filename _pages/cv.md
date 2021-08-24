@@ -26,6 +26,7 @@ Education
 
 Awards & Honours
 ======
+* Dean's List - 2021, School of Computing & Information Systems, Singapore Management University.
 * Dean's List - 2020, School of Computing & Information Systems, Singapore Management University.
 * SMU Presidential Doctoral Fellowship - 2020.
 * Selected to attend Global Young Scientists Summit 2020, event organized by National Research Foundation, Prime Minister's Office, Singapore.
