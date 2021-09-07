@@ -26,12 +26,9 @@ Education
 
 Awards & Honours
 ======
-* Dean's List - 2021, School of Computing & Information Systems, Singapore Management University.
-* Dean's List - 2020, School of Computing & Information Systems, Singapore Management University.
-* SMU Presidential Doctoral Fellowship - 2020.
+* Dean's List - 2021, 2020, 2019, School of Computing & Information Systems, Singapore Management University (SMU).
+* SMU Presidential Doctoral Fellowship - 2020, 2019.
 * Selected to attend Global Young Scientists Summit 2020, event organized by National Research Foundation, Prime Minister's Office, Singapore.
-* Dean's List - 2019, School of Computing & Information Systems, Singapore Management University.
-* SMU Presidential Doctoral Fellowship - 2019.
 * Student Travel Scholarship to attend International Conference on Autonomous Agents and Multiagent Systems (AAMAS - 2019), at Montreal, Canada.
 * Student Travel Scholarship to attend International Summer School on Planning and Scheduling, held in conjunction with International Conference on Automated Planning and Scheduling (ICAPS-2018), at Delft, The Netherlands.
 * Fujitsu-SMU Ph.D Student Scholarship - 2017.
@@ -54,7 +51,7 @@ Work Experience
 
 Community Service
 ==================
-* Program Committee Member for AAAI 2020.
+* Program Committee Member for AAAI-2022, AAAI-2020.
 * Local organizing committee for the International Conference on Autonomous Agents and Multiagent Systems (AAMAS), 2016, Singapore.
 
 Skills
