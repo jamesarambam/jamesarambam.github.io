@@ -13,7 +13,7 @@ Education
 ======
 * **Singapore Management University** <br/>
   School of Computing & Information Systems<br/>
-  PhD in Computer Science (Jan 2017 - Present)<br/>
+  PhD in Computer Science (Jan 2017 - July 2021)<br/>
 
 * **National Institute of Technology Durgapur, India** <br/>
   Department of Computer Science, <br/>
@@ -41,11 +41,13 @@ Awards & Honours
 
 Work Experience
 ======
+* **Research Scientist** (Sep. 2021 - present) <br/>
+  Department of Computer Science<br/>
+  National University of Singapore <br/>
 * **Research Engineer** (Nov. 2014 - Nov. 2016) <br/>
   School of Computing & Information Systems, Singapore Management University <br/>
   Intelligent Systems and Decision Analytics Group <br/>
   Supervisor : Assoc. Prof. Akshat Kumar <br/>
-  
 * **Assistant Software Engineer (Developer)**, (Aug. 2010 - July 2012) <br/>
   Steria India Ltd. <br/>
 
