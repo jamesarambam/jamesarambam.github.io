@@ -12,7 +12,7 @@ redirect_from:
 Research Scientist, <br/>
 Department of Computer Science, <br/>
 National University of Singapore, <br/>
-Email : arambam@comp.nus.edu.sg <br/>
+Email : jamesa@nus.edu.sg <br/>
 
 
 
