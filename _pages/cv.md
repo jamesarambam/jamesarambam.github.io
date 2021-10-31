@@ -51,28 +51,5 @@ Awards & Honours
 
 Community Service
 ==================
-Program Committee Member, ICAPS                                                                                                                      2022
-
-Program Committee Member, AAAI                                                                                                                        2022
-
-Program Committee Member, IAAI                                                                                                                         2022
-
-Program Committee Member, AAAI                                                                                                                        2020
-
-Local Organizing committee, AAMAS                                                                                                                      2016         
-
-
-
-Teaching
-==========
-
-* **Singapore Management University**
-    * Teaching Assistant in School of Computing & Information Systems
-        * Introduction to Artificial Intelligence IS-448, Fall 2018
-
-* **National Institute of Technology Durgapur**, India
-  * Teaching Assistant in Department of Computer Science
-      * Introduction to Information and Coding Theory, IT-510, Fall 2013
-      * Computer Networks Lab, IT-552, Fall 2013
-      * Object Oriented Technology Lab, IT-652, Fall 2014
+Program Committee Member(Reviewer), ICAPS                                                                                        2022<br/>Program Committee Member(Reviewer), AAAI                                                                                          2022<br/>Program Committee Member(Reviewer), IAAI                                                                                           2022<br/>Program Committee Member(Reviewer), AAAI                                                                                         2020<br/>Local Organizing Committee, AAMAS                                                                                                         2016<br/>
 
