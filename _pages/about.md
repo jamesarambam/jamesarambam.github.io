@@ -9,7 +9,7 @@ redirect_from:
 ---
 
 ## James Arambam <br/>
-Research Scientist, <br/>
+Research Scientist (Fellow), <br/>
 Department of Computer Science, <br/>
 National University of Singapore, <br/>
 Email : jamesa@nus.edu.sg <br/>
@@ -19,6 +19,10 @@ Email : jamesa@nus.edu.sg <br/>
 ## About Me
 
 I am currently a Research Scientist (Fellow) at Department of Computer Science, National University of  Singapore, working with Prof. [Harold Soh](https://haroldsoh.com/).
+
+
+
+I completed my PhD in Computer Science in July 2021 from School of Computing and Information Systems, Singapore Management University. I was advised by Assoc. Prof. [Akshat Kumar](http://www.mysmu.edu/faculty/akshatkumar/) and Prof. [Hoong Chuin Lau](http://www.mysmu.edu/faculty/hclau/)
 
 ## Research Interests
 

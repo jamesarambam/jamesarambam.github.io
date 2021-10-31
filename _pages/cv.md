@@ -28,12 +28,8 @@ Employment
 * **Research Scientist** (Sep. 2021 - present) <br/>
   Department of Computer Science<br/>
   National University of Singapore <br/>
-
 * **Research Engineer** (Nov. 2014 - Nov. 2016) <br/>
-  School of Computing & Information Systems, 
-
-  Singapore Management University <br/>
-
+  School of Computing & Information Systems<br/>Singapore Management University <br/>
 * **Assistant Software Engineer (Developer)**, (Aug. 2010 - July 2012) <br/>
   Steria India Ltd. <br/>
 
@@ -55,16 +51,21 @@ Awards & Honours
 
 Community Service
 ==================
-* Program Committee Member for AAAI-2022, IAAI-2022, AAAI-2020.
-* Local organizing committee for the International Conference on Autonomous Agents and Multiagent Systems (AAMAS), 2016, Singapore.
+Program Committee Member, ICAPS                                                                                                                      2022
 
-Skills
-=========
-* **Programming Languages:**  Python, Java, C/C++, Julia, Octave
-* **Scientific Packages:** PyTorch, TensorFlow, IBM CPLEX, GNU Scientific Libraries (GSL)
+Program Committee Member, AAAI                                                                                                                        2022
+
+Program Committee Member, IAAI                                                                                                                         2022
+
+Program Committee Member, AAAI                                                                                                                        2020
+
+Local Organizing committee, AAMAS                                                                                                                      2016         
+
+
 
 Teaching
 ==========
+
 * **Singapore Management University**
     * Teaching Assistant in School of Computing & Information Systems
         * Introduction to Artificial Intelligence IS-448, Fall 2018
