@@ -22,11 +22,11 @@ I am currently a Research Scientist (Fellow) at Department of Computer Science, 
 
 
 
-I completed my PhD in Computer Science in July 2021 from School of Computing and Information Systems, Singapore Management University. I was advised by Assoc. Prof. [Akshat Kumar](http://www.mysmu.edu/faculty/akshatkumar/) and Prof. [Hoong Chuin Lau](http://www.mysmu.edu/faculty/hclau/)
+I completed my PhD in Computer Science in July 2021 from School of Computing and Information Systems, Singapore Management University. I was advised by Prof. [Akshat Kumar](http://www.mysmu.edu/faculty/akshatkumar/) and Prof. [Hoong Chuin Lau](http://www.mysmu.edu/faculty/hclau/)
 
 ## Research Interests
 
-Artificial intelligence and machine learning - reinforcement learning, probabilistic inference, graphical models, mathematical optimization.
+Learning and Planning - Reinforcement learning(RL), Multiagent-RL, Probabilistic inference, Mathematical optimization.
 
 ## News
 
