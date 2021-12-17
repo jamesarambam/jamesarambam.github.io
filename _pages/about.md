@@ -22,7 +22,7 @@ I am currently a Research Scientist (Fellow) at Department of Computer Science, 
 
 
 
-I completed my PhD in Computer Science in July 2021 from School of Computing and Information Systems, Singapore Management University. I was advised by Prof. [Akshat Kumar](http://www.mysmu.edu/faculty/akshatkumar/) and Prof. [Hoong Chuin Lau](http://www.mysmu.edu/faculty/hclau/)
+I completed my PhD in Computer Science in July 2021 from School of Computing and Information Systems, [Singapore Management University](https://www.smu.edu.sg/). I was advised by Prof. [Akshat Kumar](http://www.mysmu.edu/faculty/akshatkumar/) and Prof. [Hoong Chuin Lau](http://www.mysmu.edu/faculty/hclau/)
 
 ## Research Interests
 
