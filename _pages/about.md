@@ -29,7 +29,7 @@ I completed my PhD in Computer Science in July 2021 from [School of Computing an
 Learning and Planning - Reinforcement learning(RL), Multiagent-RL, Probabilistic inference, Mathematical optimization.
 
 ## News
-
+* Our paper, *Constrained Multiagent Reinforcement Learning for Large Agent Population.* is accepted in Accepted in European Conference on Machine Learning and Principles and Practice of Knowledge Discovery in Databases (ECML PKDD-2022).
 * Our paper, *Trajectory Optimization for Safe Navigation in Maritime Traffic Using Historical Data* is accepted in International Conference on Principles and Practice of Constraint Programming (CP-2022, Machine Learning Track).
 * Our paper, *Learning and Exploiting Shaped Reward Models for Large Scale Multiagent RL* is accepted in  International Conference on Automated Planning and Scheduling (ICAPS-2021).
 * Our paper, *Ship-Gan: Generative Modeling Based Maritime Traffic Simulator (Demo paper)* is accepted in International Conference on Autonomous Agents and MultiAgent Systems (AAMAS-2021). (<span style="color:red">**Best Demo Award**</span>)
