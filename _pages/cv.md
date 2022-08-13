@@ -7,7 +7,7 @@ redirect_from:
   - /resume
 ---
 
-{% include base_path %} <a href="http://jamesarambam.github.io/files/CV.pdf"><font size="4">PDF</font></a>
+{% include base_path %} <a href="http://jamesarambam.github.io/files/CV.pdf"><font size="4">Portable Document Format(PDF)</font></a>
 
 Education
 ======
@@ -51,5 +51,10 @@ Awards & Honours
 
 Community Service
 ==================
-Program Committee Member(Reviewer), IJCAI-2022<br/>Program Committee Member(Reviewer), ICAPS-2022<br/>Program Committee Member(Reviewer), ICRA-2022<br/>Program Committee Member(Reviewer), AAAI-2022<br/>Program Committee Member(Reviewer), IAAI-2022<br/>Program Committee Member(Reviewer), AAAI-2020<br/>Local Organizing Committee, AAMAS-2016<br/>
+Program Committee Member(Reviewer), AAAI - 2023, 2022, 2020 <br/>
+Program Committee Member(Reviewer), IJCAI - 2022 <br/>
+Program Committee Member(Reviewer), ICAPS - 2022 <br/>
+Program Committee Member(Reviewer), ICRA - 2022 <br/>
+Program Committee Member(Reviewer), IAAI - 2022 <br/>
+Local Organizing Committee, AAMAS - 2016 <br/>
 
