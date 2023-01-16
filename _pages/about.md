@@ -9,16 +9,16 @@ redirect_from:
 ---
 
 ## James Arambam <br/>
-Research Scientist (Fellow), <br/>
-Department of Computer Science, <br/>
-National University of Singapore, <br/>
-Email : jamesa@nus.edu.sg <br/>
+Research Fellow, <br/>
+School of Computer Science and Engineering, <br/>
+Nanyang Technological University, Singapore <br/>
+Email : arambam.singh@ntu.edu.sg <br/>
 
 
 
 ## About Me
 
-I am currently a Research Scientist (Fellow) at Department of Computer Science, National University of  Singapore, working with Prof. [Harold Soh](https://haroldsoh.com/).
+I am currently a Research Fellow at School of Computer Science and Engineering, Nanyang Technological University Singapore, working with Prof. [Arvind Easwaran](https://personal.ntu.edu.sg/arvinde/) on an [AI Singapore](https://aisingapore.org/) funded project.
 
 
 
