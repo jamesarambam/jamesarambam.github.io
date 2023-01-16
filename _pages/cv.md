@@ -24,12 +24,15 @@ Education
 
 Employment
 ======
-
-* **Research Scientist** (Sep. 2021 - present) <br/>
+* **Research Fellow** (Jan. 2023 - present) <br/>
+  School of Computer Science and Engineering, <br/>
+  Nanyang Technological University, Singapore <br/>
+* **Research Fellow** (Sep. 2021 - Sep.2022) <br/>
   Department of Computer Science<br/>
   National University of Singapore <br/>
 * **Research Engineer** (Nov. 2014 - Nov. 2016) <br/>
-  School of Computing & Information Systems<br/>Singapore Management University <br/>
+  School of Computing & Information Systems<br/>
+  Singapore Management University <br/>
 * **Assistant Software Engineer (Developer)**, (Aug. 2010 - July 2012) <br/>
   Steria India Ltd. <br/>
 
