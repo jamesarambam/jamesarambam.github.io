@@ -24,16 +24,16 @@ Education
 
 Employment
 ======
-* **Research Fellow** (Jan. 2023 - present) <br/>
+* **Research Scientist** (Jan. 2023 - present) <br/>
   School of Computer Science and Engineering, <br/>
   Nanyang Technological University, Singapore <br/>
-* **Research Fellow** (Sep. 2021 - Sep.2022) <br/>
+* **Research Scientist** (Sep. 2021 - Sep.2022) <br/>
   Department of Computer Science<br/>
   National University of Singapore <br/>
 * **Research Engineer** (Nov. 2014 - Nov. 2016) <br/>
   School of Computing & Information Systems<br/>
   Singapore Management University <br/>
-* **Assistant Software Engineer (Developer)**, (Aug. 2010 - July 2012) <br/>
+* **Assistant Software Engineer**, (Aug. 2010 - July 2012) <br/>
   Steria India Ltd. <br/>
 
 Awards & Honours
@@ -54,8 +54,8 @@ Awards & Honours
 
 Community Service
 ==================
+Program Committee Member(Reviewer), AAAI - 2024, 2023, 2022, 2020 <br/>
 Program Committee Member(Reviewer), IJCAI - 2023, 2022 <br/>
-Program Committee Member(Reviewer), AAAI - 2023, 2022, 2020 <br/>
 Program Committee Member(Reviewer), ICAPS - 2023, 2022 <br/>
 Program Committee Member(Reviewer), ICRA - 2022 <br/>
 Program Committee Member(Reviewer), IAAI - 2022 <br/>

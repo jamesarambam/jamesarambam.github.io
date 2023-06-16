@@ -9,7 +9,7 @@ redirect_from:
 ---
 
 ## James Arambam <br/>
-Research Fellow, <br/>
+Research Scientist, <br/>
 School of Computer Science and Engineering, <br/>
 Nanyang Technological University, Singapore <br/>
 Email : arambam.singh@ntu.edu.sg <br/>
@@ -18,7 +18,7 @@ Email : arambam.singh@ntu.edu.sg <br/>
 
 ## About Me
 
-I am currently a Research Fellow at School of Computer Science and Engineering, Nanyang Technological University(NTU) Singapore, working with Prof. [Arvind Easwaran](https://personal.ntu.edu.sg/arvinde/) on [AI Singapore](https://aisingapore.org/) project.
+I am currently a Research Scientist at School of Computer Science and Engineering, Nanyang Technological University(NTU) Singapore, working with Prof. [Arvind Easwaran](https://personal.ntu.edu.sg/arvinde/) on [AI Singapore](https://aisingapore.org/) project.
 
 
 
