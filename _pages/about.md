@@ -26,7 +26,7 @@ I completed my PhD in Computer Science in July 2021 from [School of Computing an
 
 ## Research Interests
 
-Artificial Intelligence/Machine Learning - Reinforcement learning(RL), Multiagent-RL, Probabilistic inference, Mathematical optimization.
+Artificial Intelligence/Machine Learning - Reinforcement learning(RL), Multiagent-RL.
 
 ## News
 * Our paper, *Constrained Multiagent Reinforcement Learning for Large Agent Population.* is accepted in European Conference on Machine Learning and Principles and Practice of Knowledge Discovery in Databases (ECML PKDD-2022).
