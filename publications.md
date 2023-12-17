@@ -1,4 +1,5 @@
 15\. Jiajing Ling, **Arambam James Singh**, Duc Thien Nguyen, Akshat Kumar,  *Constrained Multiagent Reinforcement Learning for Large Agent Population*. Accepted in European Conference on Machine Learning and Principles and Practice of Knowledge Discovery in Databases (**ECML PKDD-2022**), Grenoble, France. [[pdf]()] 
+
 14\. Chaithanya Basrur, **Arambam James Singh**, Arunesh Sinha, Akshat Kumar, T.K Satish Kumar,  *Trajectory Optimization for Safe Navigation in Maritime Traffic Using Historical Data*. Accepted in  International Conference on Principles and Practice of Constraint Programming (**CP-2022**, ML Track), Haifa, Israel. [[pdf]()] 
 
 13\. **Arambam James Singh**, Akshat Kumar, Hoong Chuin Lau,  *Learning and Exploiting Shaped Reward Models for Large Scale Multiagent RL*. Accepted in  International Conference on Automated Planning and Scheduling (**ICAPS-2021**), Guangzhou, China. [[pdf](https://jamesarambam.github.io/files/icaps21.pdf)] 
@@ -14,6 +15,7 @@
 8\. **Arambam James Singh**, Akshat Kumar, *Graph Based Optimization For Multiagent Cooperation*. In proceedings of the 18th International Conference on Autonomous Agents and MultiAgent Systems (**AAMAS-2019**), Montreal, Canada. [[pdf](http://jamesarambam.github.io/files/aamas19.pdf)] 
 
 7\. **Arambam James Singh**, Akshat Kumar, *Multiagent Coordination Using Graph Structured Mathematical Optimization (Extended Abstract)*. In proceedings of the 16th International Conference on Autonomous Agents and MultiAgent Systems(**AAMAS-2017**), Sau Paulo, Brazil. [[pdf](http://jamesarambam.github.io/files/aamas17.pdf)] 
+
 6\. Akshat Kumar, **Arambam James Singh**, Pradeep Varakantham and Daniel Sheldon, *Robust Decision Making For Stochastic Network Design*. In proceedings of the Thirtieth AAAI Conference on Artificial Intelligence (**AAAI 2016**), Arizona, USA. [[pdf](http://jamesarambam.github.io/files/aaai16.pdf)] 
 
 5\. Poulami Dalapati, **Arambam James Singh** and Animesh Dutta, *Multi-Agent Based Algorithmic Approach for Fast Response in Railway Disaster Handling*. In proceedings of the International Conference on Web Intelligence and Intelligent Agent Technology (WI-IAT-2015), Singapore. [[pdf](https://ieeexplore.ieee.org/abstract/document/7397378/)]
