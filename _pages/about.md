@@ -29,8 +29,6 @@ Artificial Intelligence/Machine Learning - Reinforcement learning(RL), Multiagen
 
 ## Professional Services
 
-I regularly review papers from top AI conferences.
-
 Program Committee Member (Reviewer), AAAI - 2024, 2023, 2022, 2020 <br/>
 Program Committee Member (Reviewer), ICAPS - 2024, 2023, 2022 <br/>
 Program Committee Member (Reviewer), IJCAI - 2023, 2022 <br/>
