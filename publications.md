@@ -1,6 +1,30 @@
-3. Jiajing Ling, **Arambam James Singh**, Duc Thien Nguyen, Akshat Kumar,  *Constrained Multiagent Reinforcement Learning for Large Agent Population*. Accepted in European Conference on Machine Learning and Principles and Practice of Knowledge Discovery in Databases (**ECML PKDD-2022**), Grenoble, France. [[pdf]()] 
+15. Jiajing Ling, **Arambam James Singh**, Duc Thien Nguyen, Akshat Kumar,  *Constrained Multiagent Reinforcement Learning for Large Agent Population*. Accepted in European Conference on Machine Learning and Principles and Practice of Knowledge Discovery in Databases (**ECML PKDD-2022**), Grenoble, France. [[pdf]()] 
 
-2. Chaithanya Basrur, **Arambam James Singh**, Arunesh Sinha, Akshat Kumar, T.K Satish Kumar,  *Trajectory Optimization for Safe Navigation in Maritime Traffic Using Historical Data*. Accepted in  International Conference on Principles and Practice of Constraint Programming (**CP-2022**, ML Track), Haifa, Israel. [[pdf]()] 
+14. Chaithanya Basrur, **Arambam James Singh**, Arunesh Sinha, Akshat Kumar, T.K Satish Kumar,  *Trajectory Optimization for Safe Navigation in Maritime Traffic Using Historical Data*. Accepted in  International Conference on Principles and Practice of Constraint Programming (**CP-2022**, ML Track), Haifa, Israel. [[pdf]()] 
 
-1. **Arambam James Singh**, Akshat Kumar, Hoong Chuin Lau,  *Learning and Exploiting Shaped Reward Models for Large Scale Multiagent RL*. Accepted in  International Conference on Automated Planning and Scheduling (**ICAPS-2021**), Guangzhou, China. [[pdf](https://jamesarambam.github.io/files/icaps21.pdf)] 
+13. **Arambam James Singh**, Akshat Kumar, Hoong Chuin Lau,  *Learning and Exploiting Shaped Reward Models for Large Scale Multiagent RL*. Accepted in  International Conference on Automated Planning and Scheduling (**ICAPS-2021**), Guangzhou, China. [[pdf](https://jamesarambam.github.io/files/icaps21.pdf)] 
+
+12. **Arambam James Singh**, Akshat Kumar, Hoong Chuin Lau, *Approximate Difference Rewards for Scalable Multiagent Reinforcement Learning (Extended Abstract)*. Accepted in International Conference on Autonomous Agents and MultiAgent Systems (**AAMAS-2021**), London, UK. [[pdf]()] 
+
+11. Chaithanya Basrur, **Arambam James Singh**, Arunesh Sinha, Akshat Kumar, *Ship-Gan: Generative Modeling Based Maritime Traffic Simulator (Demo paper)*. Accepted in International Conference on Autonomous Agents and MultiAgent Systems (**AAMAS-2021**), London, UK. [[pdf]()] (<span style="color:red">**Best Demo Award**</span>)
+
+10. **Arambam James Singh**, Akshat Kumar, Hoong Chuin Lau, *Hierarchical Multiagent Reinforcement Learning for Maritime Traffic Management*. In proceedings of the 19th International Conference on Autonomous Agents and MultiAgent Systems (**AAMAS-2020**), Auckland, New Zealand. [[pdf](http://ifaamas.org/Proceedings/aamas2020/pdfs/p1278.pdf)] 
+
+9. **Arambam James Singh**, Duc Thien Nguyen, Akshat Kumar and Hoong Chuin Lau, *Multiagent Decision Making For Maritime Traffic Management*. In proceedings of the Thirty-Third AAAI Conference on Artificial Intelligence (**AAAI-19**), Hawaii, USA. [[pdf](http://jamesarambam.github.io/files/aaai19.pdf)] 
+
+8. **Arambam James Singh**, Akshat Kumar, *Graph Based Optimization For Multiagent Cooperation*. In proceedings of the 18th International Conference on Autonomous Agents and MultiAgent Systems (**AAMAS-2019**), Montreal, Canada. [[pdf](http://jamesarambam.github.io/files/aamas19.pdf)] 
+
+7. **Arambam James Singh**, Akshat Kumar, *Multiagent Coordination Using Graph Structured Mathematical Optimization (Extended Abstract)*. In proceedings of the 16th International Conference on Autonomous Agents and MultiAgent Systems(**AAMAS-2017**), Sau Paulo, Brazil. [[pdf](http://jamesarambam.github.io/files/aamas17.pdf)] 
+
+6. Akshat Kumar, **Arambam James Singh**, Pradeep Varakantham and Daniel Sheldon, *Robust Decision Making For Stochastic Network Design*. In proceedings of the Thirtieth AAAI Conference on Artificial Intelligence (**AAAI 2016**), Arizona, USA. [[pdf](http://jamesarambam.github.io/files/aaai16.pdf)] 
+
+5. Poulami Dalapati, **Arambam James Singh** and Animesh Dutta, *Multi-Agent Based Algorithmic Approach for Fast Response in Railway Disaster Handling*. In proceedings of the International Conference on Web Intelligence and Intelligent Agent Technology (WI-IAT-2015), Singapore. [[pdf](https://ieeexplore.ieee.org/abstract/document/7397378/)]
+
+4. Poulami Dalapati, **Arambam James Singh**, Animesh Dutta and Swapan Bhattacharya, *Multi Agent Based Railway Scheduling and Optimization*, In proceedings of Tencon-2014 IEEE Region 10th Conference, Oct 2014, Bangkok, Thailand. [[pdf](http://ieeexplore.ieee.org/document/7022389/)]
+
+3. **Arambam James Singh**, Poulami Dalapati and Animesh Dutta, *Multi-Agent Based Dynamic Task Allocation*, 8th International KES Conference on Agents and Multi-agent System Technologies and Applications, June 2014, Greece. [[pdf](https://link.springer.com/chapter/10.1007/978-3-319-07650-8_18)]
+
+2. **Arambam James Singh**, Deepanwita Das and Sruti Kumari, *A Swarm Based Area Partitioning Technique by Robots With Limited Capabilities and its Simulation*, Eighth International MultiConference on Information Processing - July 2014, Bangalore, India. [[pdf](https://www.researchgate.net/publication/281838908_A_Swarm_Based_Area_Partitioning_Technique_by_Robots_with_Limited_Capabilities_and_Its_Simulation)]
+
+1. **Arambam James Singh**, Sudipta Acharya & Animesh Dutta., *Agent Based Task Specific Team Formation for Effective Distributed Decision Making*,10th International Conference on Electrical Engineering/Electronics, Computer, Telecommunications and Information Technology (ECTI- CON), May 2013, Krabi, Thailand. [[pdf](http://ieeexplore.ieee.org/document/6559568/)]
 {: reversed="reversed"} 
