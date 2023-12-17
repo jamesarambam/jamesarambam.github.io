@@ -7,7 +7,7 @@ redirect_from:
   - /projects
 ---
 
-# <u>Air Traffic Control Problem</u> <font size=4>[<a href="https://jamesarambam.github.io/files/icaps21.pdf">ICAPS-2021</a>, AAMAS-2021]</font>
+# <u>Air Traffic Control Problem</u> <font size=4>[<a href="https://jamesarambam.github.io/files/icaps21.pdf">ICAPS-2021</a>]</font>
 
 Many real world systems involve interaction among large number of agents to achieve a common goal, for example, air traffic control. Several model-free RL algorithms have been proposed for such settings. A key limitation is that the empirical reward signal in model-free case is not very effective in addressing the multiagent credit assignment problem, which determines an agent's contribution to the team's success. This results in lower solution quality and high sample complexity. To address this, we contribute (a) an approach to learn a differentiable reward model for both continuous and discrete action setting by exploiting the collective nature of interactions among agents, a feature commonly present in large scale multiagent applications; (b) a shaped reward model analytically derived from the learned reward model to address the key challenge of credit assignment; (c) a model-based multiagent RL approach that integrates shaped rewards into well known RL algorithms such as policy gradient, soft-actor critic. Compared to previous methods, our learned reward models are more accurate, and our approaches achieve better solution quality on synthetic and real world instances of  air traffic control, and cooperative navigation with large agent population.
 
@@ -19,7 +19,7 @@ We address the problem of maritime traffic management in busy waterways to incre
 
 <img src="https://jamesarambam.github.io/images/enc.png" alt="drawing" width="600" height="200"/>
 
-# <u>Graph Based Optimization For Multiagent Cooperation</u> <font size=4>[<a href="https://dl.acm.org/doi/10.5555/3306127.3331863">AAMAS-19</a>, <a href="https://dl.acm.org/citation.cfm?id=3091423"> AAMAS-2017 </a>]</font>
+# <u>Graph Based Optimization For Multiagent Cooperation</u> <font size=4>[<a href="https://dl.acm.org/doi/10.5555/3306127.3331863">AAMAS-19</a>]</font>
 
 We address the problem of solving math programs defined over a graph where nodes represent agents and edges represent interaction among agents. The objective and constraint functions of this program model the task agent team must perform and the domain constraints. In this multiagent setting, no single agent observes the complete objective and all the constraints of the program. Thus, we develop a distributed message-passing approach to solve this optimization problem. We focus on the class of graph structured linear and quadratic programs (LPs/QPs) which can model important multiagent coordination frameworks such as distributed constraint optimization (DCOP). For DCOPs, our framework models functional constraints among agents (e.g. resource, network flow constraints) in a much more tractable fashion than previous approaches. Our iterative approach has several desirable properties—it is guaranteed to find the optimal solution for LPs, converges for general cyclic graphs, and is memory efficient making it suitable for resource limited agents, and has anytime property. Empirically, our approach provides solid empirical results on several standard benchmark problems when compared against previous approaches.
 

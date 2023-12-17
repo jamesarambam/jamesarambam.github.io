@@ -13,10 +13,10 @@ Education
 ======
 * **Singapore Management University** <br/>
   School of Computing & Information Systems<br/>
-  PhD in Computer Science (Jan 2017 - July 2021)<br/>
+  PhD in Computer Science (Jan. 2017 - Aug. 2021)<br/>
 * **National Institute of Technology Durgapur, India** <br/>
   Department of Computer Science, <br/>
-  Master of Technology(M.Tech) in Information Technology (Aug 2012 - June 2014 )<br/>
+  Master of Technology(M.Tech) in Information Technology (Aug. 2012 - June 2014 )<br/>
   (**Gold Medalist**) <br/>
 * **National Institute of Technology Silchar, India** <br/>
   Department of Electronics & Communication Engineering, <br/>
