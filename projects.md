@@ -37,6 +37,9 @@ We address the problem of robust decision making for stochastic network design. 
 In my Master's thesis, I worked on research concerning the application of Swarm Robotics for mapping an unknown area with unknown obstacles. The problem of mapping an unknown environment by a swarm of mobile robots is further divided into two classic problems of Multi-Robot Systems as Multi Robot Area Partitioning Problem and Area Exploration Problem. The robots considered here follow the basic Observe-Compute-Move model which are also known as CORDA Model. The robots are assumed to be full compass and asynchronous timing model and all of them remains active throughout the process. The robots considered here are all identical, with limited visibility and limited communication. There is no centralized control. Each robot executes same algorithm in every cycle based on the local information. We solve the mapping problem in two modules. We propose a distributed algorithm for each module and also uses concepts from computational geometry. In first module we solve the area partitioning problem where we divide the unknown area among the robots and assign each robot a part of the area. In second module each robot perform exploration of the area assigned and simultaneously generate a topological graph(map) of the sub-area. Thus by combining graphs of all sub parts of the area we get a map of the area. We simulate our proposed system with Player/Stage and map is constructed using python’s graphics library.
 
 
+[![Demo CountPages alpha](https://share.gifyoutube.com/KzB6Gb.gif)](https://www.youtube.com/watch?v=ek1j272iAmc)
+
+
 Software Simulation | Hardware
 :-: | :-:
 <video src='https://jamesarambam.github.io/files/soft.mp4' width="600" height="200"/> | <video src='https://jamesarambam.github.io/files/hard.mp4' width="600" height="200"/>
