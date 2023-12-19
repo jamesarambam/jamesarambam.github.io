@@ -29,24 +29,18 @@ Artificial Intelligence/Machine Learning - Reinforcement learning(RL), Multiagen
 
 ## Professional Services
 
-Program Committee Member (Reviewer), AAAI - 2024, 2023, 2022, 2020 <br/>
-Program Committee Member (Reviewer), ICAPS - 2024, 2023, 2022 <br/>
-Program Committee Member (Reviewer), IJCAI - 2023, 2022 <br/>
-Program Committee Member (Reviewer), ICRA - 2022 <br/>
-Program Committee Member (Reviewer), IAAI - 2022 <br/>
+Program Committee Member (Reviewer) in IJCAI 2022-2023, AAAI 2024-2020, ICAPS 2022-2024, ICRA 2022, IAAI 2022<br/>
 Local Organizing Committee, AAMAS - 2016 <br/>
-
 
 ## Awards & Honours
 
 * Dean's List - 2021, 2020, 2019 for research excellence at School of Computing & Information Systems, Singapore Management University (SMU).
 * SMU Presidential Doctoral Fellowship - 2020, 2019  for outstanding academic research achievements.
-* Selected to attend Global Young Scientists Summit 2020, event organized by National Research Foundation, Prime Minister's Office, Singapore.
+* Selected to attend Global Young Scientists Summit 2020.
 * Student Travel Scholarship to attend International Conference on Autonomous Agents and Multiagent Systems (AAMAS - 2019), at Montreal, Canada.
 * Student Travel Scholarship to attend International Summer School on Planning and Scheduling, held in conjunction with International Conference on Automated Planning and Scheduling (ICAPS-2018), at Delft, The Netherlands.
 * Fujitsu-SMU Ph.D Student Scholarship - 2017.
-* Gold Medal from National Institute of Technology Durgapur, West Bengal, India for
-  M.Tech. 2014.
+* Gold Medal from National Institute of Technology Durgapur, India for M.Tech. 2014.
 
 
 ## News
