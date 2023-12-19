@@ -29,7 +29,7 @@ Artificial Intelligence/Machine Learning - Reinforcement learning(RL), Multiagen
 
 ## Professional Services
 
-Program Committee Member (Reviewer) in IJCAI 2022-2023, AAAI 2024-2020, ICAPS 2022-2024, ICRA 2022, IAAI 2022<br/>
+Program Committee Member (Reviewer) in AAAI 2024-2020, IJCAI 2023-2022, ICAPS 2024-2022, ICRA 2022, IAAI 2022<br/>
 Local Organizing Committee, AAMAS - 2016 <br/>
 
 ## Awards & Honours
