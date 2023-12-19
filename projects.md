@@ -39,7 +39,7 @@ In my Master's thesis, I worked on research concerning the application of Swarm 
 
 Software Simulation | Hardware Test
 :-: | :-:
-<video width="320" height="400" controls> <source src="https://jamesarambam.github.io/files/soft.mp4" type="video/mp4"></video> | <video width="320" height="400" controls> <source src="https://jamesarambam.github.io/files/hard_low.mp4" type="video/mp4"></video>
+<video width="320" height="350" controls> <source src="https://jamesarambam.github.io/files/soft.mp4" type="video/mp4"></video> | <video width="320" height="350" controls> <source src="https://jamesarambam.github.io/files/hard_low.mp4" type="video/mp4"></video>
 
 
 
