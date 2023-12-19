@@ -40,9 +40,7 @@ In my Master's thesis, I worked on research concerning the application of Swarm 
 ### Software Simulation 
 
 <video width="320" height="240" controls>
-  <source src="movie.mp4" type="video/mp4">
-  <source src="movie.ogg" type="video/ogg">
-  Your browser does not support the video tag.
+  <source src="https://jamesarambam.github.io/files/soft.mp4" type="video/mp4">
 </video>
 
 
