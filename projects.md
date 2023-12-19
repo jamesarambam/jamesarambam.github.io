@@ -38,10 +38,15 @@ In my Master's thesis, I worked on research concerning the application of Swarm 
 
 
 ### Software Simulation 
-https://github.com/jamesarambam/jamesarambam.github.io/assets/10175831/aa0559e5-a482-4ac5-be1d-430d5fafba72
+
+<video width="320" height="240" controls>
+  <source src="movie.mp4" type="video/mp4">
+  <source src="movie.ogg" type="video/ogg">
+  Your browser does not support the video tag.
+</video>
+
 
 ### Hardware Test
-https://github.com/jamesarambam/jamesarambam.github.io/assets/10175831/397dff50-ba57-4088-b3a6-aafaa85e8bf0
 
 
 
