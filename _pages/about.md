@@ -29,7 +29,7 @@ Artificial Intelligence/Machine Learning - Reinforcement learning(RL), Multiagen
 
 ## Professional Services
 
-Program Committee Member (Reviewer) in AAAI 2024-2020, IJCAI 2023-2022, ICAPS 2024-2022, ICRA 2022, IAAI 2022<br/>
+Program Committee Member (Reviewer) in IJCAI 2024-2022, AAAI 2024-2020, ICAPS 2024-2022, ICRA 2022, IAAI 2022<br/>
 Local Organizing Committee, AAMAS - 2016 <br/>
 
 ## Awards & Honours
@@ -44,11 +44,10 @@ Local Organizing Committee, AAMAS - 2016 <br/>
 
 
 ## News
+* Our paper, *PAS: Probably Approximate Safety Verification of Reinforcement Learning Policy Using Scenario Optimization.* is accepted in International Conference on Autonomous Agents and MultiAgent Systems (AAMAS-2024).
 * Our paper, *Constrained Multiagent Reinforcement Learning for Large Agent Population.* is accepted in European Conference on Machine Learning and Principles and Practice of Knowledge Discovery in Databases (ECML PKDD-2022).
 * Our paper, *Trajectory Optimization for Safe Navigation in Maritime Traffic Using Historical Data* is accepted in International Conference on Principles and Practice of Constraint Programming (CP-2022, Machine Learning Track).
-* Our paper, *Learning and Exploiting Shaped Reward Models for Large Scale Multiagent RL* is accepted in  International Conference on Automated Planning and Scheduling (ICAPS-2021).
 * Our paper, *Ship-Gan: Generative Modeling Based Maritime Traffic Simulator (Demo paper)* is accepted in International Conference on Autonomous Agents and MultiAgent Systems (AAMAS-2021). (<span style="color:red">**Best Demo Award**</span>)
-
 <!-- <script type="text/javascript" id="clstr_globe" src="//cdn.clustrmaps.com/globe.js?d=5YZOZx47lnHz1mDsxEHN0fpbDYYrZX26-uUFWXtHqTQ"></script> -->
 
 <a href="https://clustrmaps.com/site/1b26z" title="Visit tracker"><img src="//www.clustrmaps.com/map_v2.png?d=5YZOZx47lnHz1mDsxEHN0fpbDYYrZX26-uUFWXtHqTQ&cl=ffffff"></a>

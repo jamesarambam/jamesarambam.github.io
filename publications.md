@@ -1,3 +1,5 @@
+16. **Arambam James Singh**, Arvind Easwaran, *PAS: Probably Approximate Safety Verification of Reinforcement Learning Policy Using Scenario Optimization*. Accepted in International Conference on Autonomous Agents and MultiAgent Systems (**AAMAS-2024**), Auckland, New Zealand. [[pdf]()] 
+
 15. Jiajing Ling, **Arambam James Singh**, Duc Thien Nguyen, Akshat Kumar,  *Constrained Multiagent Reinforcement Learning for Large Agent Population*. Accepted in European Conference on Machine Learning and Principles and Practice of Knowledge Discovery in Databases (**ECML PKDD-2022**), Grenoble, France. [[pdf]()] 
 
 14. Chaithanya Basrur, **Arambam James Singh**, Arunesh Sinha, Akshat Kumar, T.K Satish Kumar,  *Trajectory Optimization for Safe Navigation in Maritime Traffic Using Historical Data*. Accepted in  International Conference on Principles and Practice of Constraint Programming (**CP-2022**, ML Track), Haifa, Israel. [[pdf]()] 
