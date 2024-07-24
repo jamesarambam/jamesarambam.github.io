@@ -26,7 +26,7 @@ I completed my PhD in Computer Science in August 2021 from [School of Computing 
 
 ## Research Interests
 
-My research interests are primarily in Artificial Intelligence and Machine Learning. Here are some of the topics I am currently exploring.
+My research interests are primarily in Artificial Intelligence/Machine Learning. Here are some of the topics I am currently exploring.
 - Reinforcement Learning (RL)
 - Multiagent Reinforcemet Learning (MARL)
 - Large-Scale Multiagent Systems
