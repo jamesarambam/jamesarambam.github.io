@@ -30,7 +30,7 @@ My research interests are primarily in Artificial Intelligence and Machine Learn
 - Reinforcement Learning (RL)
 - Multiagent Reinforcemet Learning (MARL)
 - Large-Scale Multiagent Systems
-- Safety in AI systems
+- Safety in AI Systems
 - Human-AI Interaction
 
 
