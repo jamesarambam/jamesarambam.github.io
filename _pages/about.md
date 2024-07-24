@@ -29,8 +29,9 @@ I completed my PhD in Computer Science in August 2021 from [School of Computing 
 My research interests are primarily in Artificial Intelligence and Machine Learning. Here are some of the topics I am currently exploring.
 - Reinforcement Learning (RL)
 - Multiagent Reinforcemet Learning (MARL)
-- Large-scale Multiagent Systems
+- Large-Scale Multiagent Systems
 - Safety in AI systems
+- Human-AI Interaction
 
 
 
