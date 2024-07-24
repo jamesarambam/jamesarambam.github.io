@@ -23,9 +23,15 @@ I am currently a Research Fellow at School of Computer Science and Engineering, 
 
 I completed my PhD in Computer Science in August 2021 from [School of Computing and Information Systems](https://scis.smu.edu.sg/), Singapore Management University. I was advised by Prof. [Akshat Kumar](http://www.mysmu.edu/faculty/akshatkumar/) and Prof. [Hoong Chuin Lau](http://www.mysmu.edu/faculty/hclau/)
 
+
 ## Research Interests
 
-Artificial Intelligence/Machine Learning - Reinforcement learning(RL), Multiagent-RL.
+My research interests are primarily in Artificial Intelligence and Machine Learning. Here are some of the topics I am currently exploring.
+- Reinforcement Learning (RL)
+- Multiagent Reinforcemet Learning (MARL)
+- Large-scale Multiagent Systems
+- Safety in AI systems
+
 
 
 ## Professional Services
