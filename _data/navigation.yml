@@ -12,8 +12,8 @@ main:
   - title: "Usefull Links"
     url: /links/
 
-  - title: "Blog"
-    url: /year-archive/
+  # - title: "Blog"
+  #   url: /year-archive/
     
-  - title: "Photography"
-    url: /photography/
+  # - title: "Photography"
+  #   url: /photography/

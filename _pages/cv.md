@@ -7,7 +7,7 @@ redirect_from:
   - /resume
 ---
 
-{% include base_path %} <a href="http://jamesarambam.github.io/files/CV.pdf"><font size="4">Portable Document Format(PDF)</font></a>
+{% include base_path %} <a href="http://jamesarambam.github.io/files/CV.pdf"><font size="4">PDF</font></a>
 
 Education
 ======
