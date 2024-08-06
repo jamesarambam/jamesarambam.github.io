@@ -55,8 +55,8 @@ Awards & Honours
 Professional Service
 ==================
 Reviewer, Journal of Artificial Intelligence Research (JAIR) <br/>
+Program Committee Member (Reviewer), AAAI - 2025, 2024, 2023, 2022, 2020 <br/>
 Program Committee Member (Reviewer), IJCAI - 2024, 2023, 2022 <br/>
-Program Committee Member (Reviewer), AAAI - 2024, 2023, 2022, 2020 <br/>
 Program Committee Member (Reviewer), ICAPS - 2024, 2023, 2022 <br/>
 Program Committee Member (Reviewer), ICRA - 2022 <br/>
 Program Committee Member (Reviewer), IAAI - 2022 <br/>
